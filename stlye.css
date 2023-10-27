@@ -1,0 +1,97 @@
+body {
+	background-color: #F3F0CA;
+	color: black ;
+	font-family: courier;
+	
+}
+
+h1 {
+	color: darkblue;
+	font-family: courier;
+	font-weight: 50;
+	font-size: 40px;
+
+}
+
+
+p1{
+	color: darkblue;
+	font-size: 20px;
+}
+p{
+	color: #445D48;
+}
+h2{
+	color: darkblue;
+}
+a{
+	color: black;
+	font-size: 20px;
+}
+li{
+	color: #445D48;
+}
+
+.img-circle{
+	border-radius: 60px;	
+}
+
+
+
+
+/* Custom design with class */
+.container{
+	width: 700px;
+	margin: 40px auto;
+}
+
+
+.card-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+}
+
+
+.btn-blue{
+	background-color: #445D48;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 60px
+}
+
+.btn-blue:hover{
+	background-color: black;
+	color: white;
+
+}
+
+.list-inline{
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+.list-inline i {
+	font-size: 50px;
+}
+.list-inline:{
+	background-color: #445D48;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 60px
+}
+
+.list-inline:hover{
+	background-color: white;
+	color: blue;
+}
+
+
+
+
